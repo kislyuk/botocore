@@ -576,7 +576,7 @@
         },
         "repositoryName":{
           "shape":"RepositoryName",
-          "documentation":"<p>A list of repositories to describe. If this parameter is omitted, then all repositories in a registry are described.</p>"
+          "documentation":"<p>A list of repositories to describe.</p>"
         },
         "imageIds":{
           "shape":"ImageIdentifierList",
