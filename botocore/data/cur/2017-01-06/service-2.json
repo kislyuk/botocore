@@ -205,7 +205,10 @@
     "ReportFormat":{
       "type":"string",
       "documentation":"Preferred format for report.",
-      "enum":["textORcsv"]
+      "enum":[
+        "text",
+        "csv"
+      ]
     },
     "ReportLimitReachedException":{
       "type":"structure",
